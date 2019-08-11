@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Connor Lee",
+    "label": "Full Stack Developer",
+    "picture": "https://avatars2.githubusercontent.com/u/45024235?s=460&v=4",
+    "email": "connorleee16@gmail.com",
+    "phone": "(425) 577 3605",
+    "website": "https://connorleee.github.io/portfolio-official/",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "address": "2613 E Thomas St",
+      "postalCode": "WA 98112",
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "connorleee",
+        "url": "https://github.com/connorleee"
+      },
+      {
+        "network": "linkedin",
+        "username": "connorjoshualee",
+        "url": "https://www.linkedin.com/in/connorjoshualee/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Granite Construction Company",
+      "position": "Project Engineer II",
+      "website": "https://www.graniteconstruction.com/",
+      "startDate": "2016-06-11",
+      "endDate": "Current",
+      "summary": "Heavy civil construction contractor",
+      "highlights": [
+        "Managed teams of 10+ people to complete $500,000 jobs and scopes of work over $4,000,000",
+        "Self-studied drone photogrammetry, GPS/survey technologies, algorithms, and workflows to develop optimized drone program to manage vast data collected from drones on construction sites",
+        "Managed project cost and revenue, long range scheduling, and estimated future projects"
+      ]
+    },
+    {
+      "company": "AHBL",
+      "position": "Structural Engineer Intern",
+      "website": "http://www.ahbl.com/",
+      "startDate": "2015-06",
+      "endDate": "2015-09",
+      "summary": "Multi-disciplinary engineering firm with emphasis in Civil and Structural engineering",
+      "highlights": [
+        "Assisted in structural evaluation, analysis",
+        "Self-studied drone photogrammetry, GPS/survey technologies, algorithms, and workflows to develop optimized drone program to manage vast data collected from drones on construction sites",
+        "Managed project cost and revenue, long range scheduling, and estimated future projects"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "website": "http://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
